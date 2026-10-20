@@ -14,5 +14,4 @@ App web de denúncias de problemas urbanos (lixo, entulho etc.) com mapa, GPS, c
 - `CONTACT_URL` — link de contato para quem quer ser patrocinador.
 
 ## Como usar
-Abra `index.html` no navegador ou hospede a pasta inteira (ex.: Netlify Drop, GitHub Pages). GPS e câmera exigem HTTPS.
-Fora do claude.ai os dados ficam salvos só no navegador de cada pessoa; para dados compartilhados é preciso um backend.
+Abra `index.html` no navegador
