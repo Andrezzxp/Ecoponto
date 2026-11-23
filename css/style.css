@@ -495,3 +495,6 @@
   @media (min-width: 760px) and (max-width: 1119px){
     .fab{left:50%;right:auto;bottom:84px;width:min(360px,calc(100% - 48px));transform:translateX(-50%)}
   }
+
+/* Texto para buscadores e leitores de tela; nao aparece visualmente. */
+.seo-intro{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
